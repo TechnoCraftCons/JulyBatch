@@ -46,6 +46,7 @@ public class Java01Basics {
 
         // Printing a value with out the double quote it will print the value assigned to the variable
         System.out.println(mystring);
+
         // printing a value with a double quote it will print the value inside the double quote
         System.out.println("mystring");
 
