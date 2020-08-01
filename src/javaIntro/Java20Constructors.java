@@ -16,7 +16,7 @@ public class Java20Constructors {
         System.out.println("This is my Method");
     }
     public static void main(String[] args) {
-        Java20Constructors cons = new Java20Constructors();
+        Java20Constructors cons = new Java20Constructors("NEbyou");
         cons.MyMethod();
     }
 }
